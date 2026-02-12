@@ -7,9 +7,6 @@
 
 ---
 
-![EcoCode AI Dashboard](dashboard.png)
-*(Screenshot of EcoCode AI analyzing algorithmic energy consumption in real-time)*
-
 ## 🌍 The Problem
 Software inefficiency is a silent contributor to global energy consumption. Mobile apps running unoptimized code (e.g., $O(n^2)$ sorting algorithms) drain batteries faster, leading to:
 1.  **Reduced Battery Life** for users.
